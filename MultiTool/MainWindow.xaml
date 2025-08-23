@@ -1,0 +1,20 @@
+﻿<Window x:Class="MultiTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VideoGrabber" Height="300" Width="650" FontFamily="Arial Black"
+        Icon="/Resources/logo.ico">
+    <Grid Margin="10">
+        <StackPanel Height="265" Width="600">
+            <TextBlock Text="Enter url from video (X, Pinterest):" Margin="0,0,0,5"/>
+            <TextBox Name="UrlBox" Height="30" Margin="0,0,0,10"/>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBox Name="PathBox" Width="350" Height="30" Margin="0,0,10,0" IsReadOnly="True"/>
+                <Button Content="Select folder" Width="181" Click="SelectFolder_Click" FontFamily="Arial Black"/>
+            </StackPanel>
+
+            <Button Content="Download Video" Height="40" Margin="0,10,0,0" Click="Download_Click"/>
+            <TextBlock Name="StatusText" Text="Waiting..." Margin="0,10,0,0" Foreground="Green" FontFamily="Arial Black"/>
+        </StackPanel>
+    </Grid>
+</Window>

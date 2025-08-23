@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neid\\Desktop\\Projects\\MultiTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8CA791-E3FF-4133-9F6C-01727933637E}|MultiTool\\MultiTool.csproj|c:\\users\\neid\\desktop\\projects\\multitool\\multitool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8CA791-E3FF-4133-9F6C-01727933637E}|MultiTool\\MultiTool.csproj|solutionrelative:multitool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Neid\\Desktop\\Projects\\MultiTool\\MultiTool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MultiTool\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Neid\\Desktop\\Projects\\MultiTool\\MultiTool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MultiTool\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:11:04.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

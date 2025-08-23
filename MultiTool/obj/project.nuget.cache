@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hkmLCv3ni8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neid\\Desktop\\Projects\\MultiTool\\MultiTool\\MultiTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neid\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.19\\microsoft.net.illink.tasks.8.0.19.nupkg.sha512",
+    "C:\\Users\\Neid\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

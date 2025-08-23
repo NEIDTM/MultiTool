@@ -1,0 +1,2 @@
+C:\Users\Neid\Desktop\Projects\MultiTool\MultiTool\bin\Release\net8.0-windows\win-x64\publish\MultiTool.pdb
+C:\Users\Neid\Desktop\Projects\MultiTool\MultiTool\bin\Release\net8.0-windows\win-x64\publish\MultiTool.exe

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<ApplicationIcon>C:\Users\Neid\Desktop\Projects\MultiTool\MultiTool\Resources\logo.ico</ApplicationIcon>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="Resources\logo.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Resources\yt-dlp.exe" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Ookii.Dialogs.Wpf" Version="5.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Resource Include="Resources\logo.ico" />
+	</ItemGroup>
+
+</Project>

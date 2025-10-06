@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37a4aa351104f5eb81eb512ca7b2a26cf3e5ba9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
